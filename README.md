@@ -1,1 +1,1 @@
-# CALCULATOR
+I created simple calculator using Java that runs in the console and allows users to perform four basic arithmetic operations: addition, subtraction, multiplication, and division. It works in an infinite loop, continuously accepting user input and displaying results until the program is manually stopped.
